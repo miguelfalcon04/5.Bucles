@@ -16,7 +16,7 @@ public class Eje62 {
         int bueno=0;
         int malo=0;
         while (n>0) {
-            int cifra=n%10;
+            int cifra = n%10;
 
             switch (cifra) {
                 case 3:
