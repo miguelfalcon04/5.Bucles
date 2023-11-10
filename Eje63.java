@@ -38,8 +38,7 @@ public class Eje63 {
                     c++;
                 }
             System.out.println();
-
         }
-        
+
     }
 }
